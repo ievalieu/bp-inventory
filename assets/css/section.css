@@ -1,0 +1,22 @@
+section {
+	display: flex;
+	flex-direction: column;
+	flex: 1;
+}
+.sidebar {
+	background: #aaaaaa;
+}
+form {
+	display: flex;
+	flex-direction: row;
+	padding: 2px 2px;
+}
+.searchbar {
+	flex: 1;
+}
+button {
+	border-radius: 0px;
+	border: 1px solid grey;	
+	background: #006BA6;
+	color: white;
+}

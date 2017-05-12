@@ -1,0 +1,9 @@
+nav {
+	background: #7EA16B;
+	padding: 5px 0px;
+}
+nav ul{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
