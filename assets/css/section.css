@@ -27,3 +27,10 @@ button {
 	height: 25px;
 	margin: 2.5px;
 }
+.item-header {
+	border: 1px solid black;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	box-shadow: 1px 1px 1px black;
+}
