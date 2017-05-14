@@ -20,3 +20,10 @@ button {
 	background: #006BA6;
 	color: white;
 }
+
+.item {
+	border: 1px solid red;
+	box-shadow: 1px 1px 1px black;
+	height: 25px;
+	margin: 2.5px;
+}
