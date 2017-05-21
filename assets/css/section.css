@@ -23,7 +23,7 @@ button {
 .item {
 	border: 1px solid red;
 	box-shadow: 1px 1px 1px black;
-	height: 25px;
+
 	margin: 2.5px;
 	background: white;
 	padding: 5px 5px;
@@ -35,4 +35,7 @@ button {
 	align-content: center;
 	align-items: center;
 	padding: 10px 0;
+}
+.item-1 {
+	padding: 10px 10px;
 }
