@@ -1,0 +1,26 @@
+{
+  "name": "bp-inventory",
+  "version": "1.0.0",
+  "description": "Inventory system for Bird Pick",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsevalieu/bp-inventory.git"
+  },
+  "author": "Eva Lieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsevalieu/bp-inventory/issues"
+  },
+  "homepage": "https://github.com/itsevalieu/bp-inventory#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mysql": "^2.13.0",
+    "sequelize": "^3.30.4"
+  }
+}
