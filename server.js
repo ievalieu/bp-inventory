@@ -37,6 +37,16 @@ connection.connect(function(err) {
   console.log("connected as id " + connection.threadId);
 });
 
+// model:
+// id
+// vendor-id
+// name
+// description
+// stock
+// threshold
+// location
+
+
 // connection.query("SELECT * FROM products", function(err, res) {
 //   if (err) throw err;
 //   console.log(res);
